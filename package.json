@@ -1,0 +1,16 @@
+{
+  "name": "web_services",
+  "version": "1.0.0",
+  "description": "JSON API web service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bochkovyi Bogdan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.12.0"
+  }
+}
